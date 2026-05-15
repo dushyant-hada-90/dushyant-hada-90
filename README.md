@@ -57,13 +57,7 @@ Production-grade platform where custom AI agents join WebRTC meetings with real-
 **Tech**: Next.js 16, LiveKit, Neon DB + Drizzle ORM, Better Auth, Inngest, Gemini 2.5 Flash, tRPC, Tailwind CSS + shadcn/ui  
 [Documentation](https://meetai-monorepo-docs.vercel.app/) · [Repository](https://github.com/dushyant-hada-90/meetai-monorepo)
 
----
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dushyant-hada-90&show_icons=true&hide_title=true&count_private=true&theme=default)
-
----
 
 ## Current Focus
 
