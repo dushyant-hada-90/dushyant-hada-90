@@ -1,4 +1,4 @@
-# Dushyant Hada
+# Dushyant Singh Hada
 
 **Full-Stack AI Developer** — Final year student building intelligent web applications. Intern at Voiceshop.in and open-source contributor.
 
